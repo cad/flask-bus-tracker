@@ -1,0 +1,10 @@
+[
+    {
+        "class": "api.models.user.User",
+        "fields": {
+            "id": 1,
+            "email": "admin@admin.com",
+            "password":"$2a$12$P0lW8Ei71R1450cbMieAwOYjNB2Lpjydh9cL.RLYSemOrDRodeCIq"
+        }
+    }
+]
